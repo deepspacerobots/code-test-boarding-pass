@@ -22,7 +22,7 @@ In /assets you will find an image of a poorly-designed boarding pass from Delta 
 ## Requirements
 
 - You must complete the challenge within 6 hours of receiving this link.
-- You may not use 3rd-party libraries or resources.
+- You may not use 3rd-party libraries or assets.
 - You may only use web-safe fonts native to web browsers (no imported fonts).
 - You may use resources found in /assets
 - The code should work in the latest version of Chrome.
