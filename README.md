@@ -10,7 +10,7 @@ In /assets you will find an image of a poorly-designed boarding pass from Delta 
 1. **Redesign the boarding pass using only CSS and HTML**
 2. **Account for the technical requirements of the airline**
    - Showcase the [airline's brand](https://news.delta.com/delta-air-lines-logos-brand-guidelines), but do not let it overwhelm the actionable content.
-   - Bar codes must be included for passenger check-in/tracking.
+   - Barcode must be included for passenger check-in/tracking (/assets/barcode-1.jpg).
    - The passenger's identity must be clearly displayed for manual verification.
 
 3. **Account for the human needs of the traveler who will use the boarding pass.**
